@@ -102,10 +102,6 @@ The project follows the **Medallion Architecture** (Bronze → Silver → Gold) 
 │   ├─ 01_Bronze_Ingestion.ipynb
 │   ├─ 02_Silver_Transformation.ipynb
 │   ├─ 03_Gold_AzureSQL.ipynb
-├─ data
-│   ├─ Extended_Employee_Performance_and_Productivity_Data.csv (or link to ADLS)
-├─ docs
-│   └─ diagrams, documentation
 ├─ power_bi
 │   └─ EmployeeInsightsDashboard.pbix
 └─ README.md  (this document)
